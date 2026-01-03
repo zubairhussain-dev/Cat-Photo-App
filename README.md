@@ -1,6 +1,6 @@
 # Cat Photo App
 
-![Project Preview](preview.jpg)
+![Project Preview](preview.png)
 
 This repository contains the solution for the **"Build a Cat Photo App"** workshop from the freeCodeCamp Responsive Web Design certification. The project focuses on building a simple HTML5 web page using semantic elements and standard best practices.
 
